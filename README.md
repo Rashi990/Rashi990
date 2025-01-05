@@ -5,9 +5,11 @@
 <br>
 
 <ul>
-	<li>I am interested in Software Development and keen to learn for enhancing my professional skills </li>
-	<li>I’m currently learning React and NodeJs  </li>
+	<li>I am interested in Software Engineering and Full Stack Development  </li>
+	<li>I'm keen to learn and explore new technologies for enhancing my professional skills </li>
+	<li>I’m currently working on self-learning web development projects</li>
 </ui>
+	<br>
 
  - 📫 How toReach me : rashinilakshika2020@gmail.com
 
